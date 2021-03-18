@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ballonura
-- 👀 I’m Software Engineer & JavaScript Enthusiast
-- 🌱 I’m currently learning ...
+- 👀 I'm a JavaScript Enthusiast
 
 <!---
 ballonura/ballonura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
